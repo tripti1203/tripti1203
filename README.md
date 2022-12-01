@@ -3,7 +3,7 @@
 <img align="right" alt="Gif" width="400" src="https://cdn.dribbble.com/users/2367833/screenshots/7816190/media/b1aaf5c98510012b56422d1619dc62e8.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tripti1203&label=Profile%20views&color=0e75b6&style=flat" alt="tripti1203" /> </p>
 
-- 🌱 I’m currently learning **Data Structures & Algorithm**
+- 🌱 I’m currently learning **Spring Framework**
 
 - 📫 How to reach me **triptikushwaha1203@gmail.com**
 
